@@ -1,5 +1,3 @@
-Here is the English translation for your repository description, keeping the formatting clean, professional, and ready for GitHub.
-
 🤖 Vox Music Telegram Bot
 A stylish and powerful Python-based Telegram bot for searching, downloading, and processing music from open sources. Fully containerized with Docker, ensuring it runs on any server in just a couple of commands without the hassle of long environment setups.
 

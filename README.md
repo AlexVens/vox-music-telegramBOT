@@ -22,6 +22,7 @@ Containerization: Docker
 🚀 Quick Start Guide
 1. Clone the Repository
 To get started, clone the project to your server or local machine:
+
 git clone https://github.com/AlexVens/vox-music-telegramBOT.git
 
 2. Building the Docker Image

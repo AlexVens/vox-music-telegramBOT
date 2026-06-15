@@ -23,7 +23,6 @@ Containerization: Docker
 1. Clone the Repository
 To get started, clone the project to your server or local machine:
 git clone https://github.com/AlexVens/vox-music-telegramBOT.git
-cd vox-music-telegramBOT
 
 2. Building the Docker Image
 Docker will automatically download the required version of Linux and Python, install FFmpeg, and set up all dependencies from requirements.txt:

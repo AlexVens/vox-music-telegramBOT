@@ -28,8 +28,6 @@ git clone https://github.com/AlexVens/vox-music-telegramBOT.git
 Docker will automatically download the required version of Linux and Python, install FFmpeg, and set up all dependencies from requirements.txt:
 docker build -t vox-music-bot .
 
-Here is the English translation for sections 3 and 4:
-
 3. First Launch and Configuration (Interactive Mode)
 On the very first launch, the bot will politely ask you to enter your Telegram token from @BotFather directly into the console. Run it in interactive mode:
 

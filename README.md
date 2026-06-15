@@ -13,7 +13,7 @@ A stylish and powerful Python-based Telegram bot for searching, downloading, and
 🛠 Tech Stack
 Language: Python 3.10+
 
-API Wrapper: Telebot (pyTelegramBotAPI) / Aiogram (specify your library)
+API Wrapper: Telebot (pyTelegramBotAPI) / Aiogram 
 
 Audio Processing: FFmpeg
 
